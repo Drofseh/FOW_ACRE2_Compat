@@ -1,2 +1,2 @@
 # FOW_ACRE2_Compat
-A mod for ARMA3 that adds compatibility between the ACRE2 mod and the FOW mod, particularly for vehicle radios.
+This is a placeholder and will be worked on once the IFA/ACRE2 compat is ready for release.
