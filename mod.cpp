@@ -1,0 +1,10 @@
+name = "FOW ACRE2 Compatibility";
+author = "Wilhelm Haas (Drofseh)";
+description = "FOW ACRE2 Compatibility - Version 0.0.1";
+overview = "Provides compatibility between FOW and ACRE2 radios.";
+logo = "logo.paa";
+logoOver = "logo.paa";
+logoSmall = "logo.paa";
+picture = "logo.paa";
+tooltip = "FOW/ACRE2 Compatibility";
+action = "https://github.com/Drofseh/FOW_ACRE2_COMPAT";
