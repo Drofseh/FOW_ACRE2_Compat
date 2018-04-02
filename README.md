@@ -12,7 +12,7 @@ The aim is not to provide 100% historical fidelity, concessions have been made t
 
 For example:
 
-Tanks all have infantry telephones with interaction points in reasonably plausible positions are the rear of the vehicle.
+Tanks all have infantry telephones with interaction points in reasonably plausible positions at the rear of the vehicle.
 
 Tanks all have crew intercoms to ensure that loud vehicle audio doesn't impede crew communication due to Teamspeak and in game audio balance.
 
@@ -28,7 +28,7 @@ The correct radio operator seat must still be used to access the radio GUI and c
 * ACE3 v3.12.1
 
 #### Releases
-Releases can be found [here](https://github.com/Drofseh/FOW_ACRE2_Compat/releases), as soon as there are any.
+Releases can be found [here](https://github.com/Drofseh/FOW_ACRE2_Compat/releases).
 
 #### Feature Requests, Issues, Pull Requests
 Please check the [here](https://github.com/Drofseh/FOW_ACRE2_Compat/blob/master/.github/CONTRIBUTING.md) for information on these topics.
