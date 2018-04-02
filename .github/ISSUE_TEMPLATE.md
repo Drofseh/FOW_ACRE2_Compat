@@ -1,16 +1,16 @@
 **Arma 3 Version:** `x.xx` (stable / rc / dev)
 
-**IFA Version:** `x.x.x` (stable / dev)
+**FOW Version:** `x.x.x` (stable / dev)
 
 **CBA Version:** `x.x.x` (stable / dev)
 
 **ACE3 Version:** `1.x.x` (stable / dev)
 
-**ACRE2 Version:** `1.x.x` (stable / dev)
+**ACRE2 Version:** `2.x.x` (stable / dev)
 
 **Mods:**
 ```
-- IFA
+- FOW
 - CBA
 - ACE3
 - ACRE2
