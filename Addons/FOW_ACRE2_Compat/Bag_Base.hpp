@@ -1,4 +1,4 @@
-﻿class B_LIB_AssaultPack_Base;
+class B_LIB_AssaultPack_Base;
 class Bag_Base;
 
     class fow_b_torn_radio : B_LIB_AssaultPack_Base {
