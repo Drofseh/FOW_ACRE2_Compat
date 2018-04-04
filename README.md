@@ -1,10 +1,15 @@
 ## FOW ACRE2 Compatibility
 <p align="left">
     <a href="https://github.com/Drofseh/FOW_ACRE2_Compat/releases/latest">
-        <img src="https://img.shields.io/badge/Version-0.1.0-blue.svg" alt="FOW/ACRE2 Compat">
+        <img src="https://i.imgur.com/vSC3arb.png" alt="FOW/ACRE2 Compat">
     </a>
 </p>
-A mod for ARMA3 that adds compatibility between the ACRE2 mod and the FOW mod, particularly for vehicle radios.
+<p align="left">
+    <a href="https://github.com/Drofseh/FOW_ACRE2_Compat/releases/latest">
+        <img src="https://img.shields.io/badge/Version-0.2.0-blue.svg" alt="FOW/ACRE2 Compat">
+    </a>
+</p>
+A mod for ARMA3 that adds compatibility between the ACRE2 mod and the FOW mod, particularly for vehicle radios, intercoms, and infantry phones.
 
 More specifically, it sets the radios up in a more historical manner than the default configs that ACRE2 provides.
 
