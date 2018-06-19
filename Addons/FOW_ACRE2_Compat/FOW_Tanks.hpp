@@ -11,7 +11,7 @@ class fow_v_cromwell : Tank_F {
     class AcreIntercoms {
         class Intercom_1 {
             displayName = "Crew Intercom";
-            shortName = "ICom";
+            shortName = "IntCm";
             allowedPositions[] = {"crew"};
             disabledPositions[] = {};
             limitedPositions[] = {};
@@ -23,8 +23,8 @@ class fow_v_cromwell : Tank_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Vehicle Radio";
-            shortName = "Rack";
+            displayName = "Radio Set";
+            shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {{"turret", {0,2}}};
             disabledPositions[] = {};
@@ -47,7 +47,7 @@ class fow_v_lvta2 : Tank_F {
     class AcreIntercoms {
         class Intercom_1 {
             displayName = "Crew Intercom";
-            shortName = "ICom";
+            shortName = "IntCm";
             allowedPositions[] = {"crew", {"cargo", 0}};
             disabledPositions[] = {};
             limitedPositions[] = {};
@@ -59,8 +59,8 @@ class fow_v_lvta2 : Tank_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Vehicle Radio";
-            shortName = "Rack";
+            displayName = "Radio Set";
+            shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver", {"cargo", 0}};
             disabledPositions[] = {};
@@ -83,7 +83,7 @@ class fow_v_m4a2 : Tank_F {
     class AcreIntercoms {
         class Intercom_1 {
             displayName = "Crew Intercom";
-            shortName = "ICom";
+            shortName = "IntCm";
             allowedPositions[] = {"crew"};
             disabledPositions[] = {};
             limitedPositions[] = {};
@@ -95,8 +95,8 @@ class fow_v_m4a2 : Tank_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Vehicle Radio";
-            shortName = "Rack";
+            displayName = "Radio Set";
+            shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {{"turret", {0,1}}};
             disabledPositions[] = {};
@@ -119,7 +119,7 @@ class fow_v_m5a1 : Tank_F {
     class AcreIntercoms {
         class Intercom_1 {
             displayName = "Crew Intercom";
-            shortName = "ICom";
+            shortName = "IntCm";
             allowedPositions[] = {"crew"};
             disabledPositions[] = {};
             limitedPositions[] = {};
@@ -131,8 +131,8 @@ class fow_v_m5a1 : Tank_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Vehicle Radio";
-            shortName = "Rack";
+            displayName = "Radio Set";
+            shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {{"turret", {0,1}}};
             disabledPositions[] = {};
@@ -155,7 +155,7 @@ class fow_v_panther : Tank_F {
     class AcreIntercoms {
         class Intercom_1 {
             displayName = "Crew Intercom";
-            shortName = "ICom";
+            shortName = "IntCm";
             allowedPositions[] = {"crew"};
             disabledPositions[] = {};
             limitedPositions[] = {};
@@ -167,8 +167,8 @@ class fow_v_panther : Tank_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Vehicle Radio";
-            shortName = "Rack";
+            displayName = "Radio Set";
+            shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {{"turret", {0,1}}};
             disabledPositions[] = {};
@@ -191,7 +191,7 @@ class fow_v_type95_HaGo : Tank_F {
     class AcreIntercoms {
         class Intercom_1 {
             displayName = "Crew Intercom";
-            shortName = "ICom";
+            shortName = "IntCm";
             allowedPositions[] = {"crew"};
             disabledPositions[] = {};
             limitedPositions[] = {};

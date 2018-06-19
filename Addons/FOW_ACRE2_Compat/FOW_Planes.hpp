@@ -7,7 +7,7 @@ class fow_va_plane_base : Plane_Base_F {
     class AcreIntercoms {
         class Intercom_1 {
             displayName = "Crew Intercom";
-            shortName = "ICom";
+            shortName = "IntCm";
             allowedPositions[] = {"crew"};
             disabledPositions[] = {};
             limitedPositions[] = {{"cargo", "all"}};
@@ -19,8 +19,8 @@ class fow_va_plane_base : Plane_Base_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Air Radio";
-            shortName = "Air";
+            displayName = "Radio Set - Ichi";
+            shortName = "Set-1";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver","copilot"};
             disabledPositions[] = {};
@@ -30,8 +30,8 @@ class fow_va_plane_base : Plane_Base_F {
             intercom[] = {"none"};
         };
         class Rack_2 {
-            displayName = "Ground Radio";
-            shortName = "Grnd";
+            displayName = "Radio Set - Ni";
+            shortName = "Set-2";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver","copilot"};
             disabledPositions[] = {};
@@ -48,8 +48,8 @@ class fow_va_plane_base;
 class fow_va_f6f_base : fow_va_plane_base {
     class AcreRacks {
         class Rack_1 {
-            displayName = "Air Radio";
-            shortName = "Air";
+            displayName = "Radio Set - Ichi";
+            shortName = "Set-1";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver"};
             disabledPositions[] = {};
@@ -59,8 +59,8 @@ class fow_va_f6f_base : fow_va_plane_base {
             intercom[] = {"none"};
         };
         class Rack_2 {
-            displayName = "Ground Radio";
-            shortName = "Grnd";
+            displayName = "Radio Set - Ni";
+            shortName = "Set-2";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver"};
             disabledPositions[] = {};
@@ -75,8 +75,8 @@ class fow_va_f6f_base : fow_va_plane_base {
 class fow_va_a6m_base : fow_va_plane_base {
     class AcreRacks {
         class Rack_1 {
-            displayName = "Air Radio";
-            shortName = "Air";
+            displayName = "Radio Set - Ichi";
+            shortName = "Set-1";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver"};
             disabledPositions[] = {};
@@ -86,8 +86,8 @@ class fow_va_a6m_base : fow_va_plane_base {
             intercom[] = {"none"};
         };
         class Rack_2 {
-            displayName = "Ground Radio";
-            shortName = "Grnd";
+            displayName = "Radio Set - Ni";
+            shortName = "Set-2";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver"};
             disabledPositions[] = {};

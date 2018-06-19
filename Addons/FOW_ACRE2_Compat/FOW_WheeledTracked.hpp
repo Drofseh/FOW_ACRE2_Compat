@@ -11,8 +11,8 @@ class fow_v_sdkfz_250_base : Tank_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Vehicle Radio";
-            shortName = "Rack";
+            displayName = "Radio Set";
+            shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver", {"cargo", 0}};
             disabledPositions[] = {};
@@ -36,8 +36,8 @@ class fow_v_sdkfz_251 : Tank_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Vehicle Radio";
-            shortName = "Rack";
+            displayName = "Radio Set";
+            shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver", {"cargo", 0}};
             disabledPositions[] = {};

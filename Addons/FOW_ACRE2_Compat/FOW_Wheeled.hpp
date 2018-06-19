@@ -28,8 +28,8 @@ class fow_v_sdkfz_222 : Wheeled_APC_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Vehicle Radio";
-            shortName = "Rack";
+            displayName = "Radio Set";
+            shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"gunner"};
             disabledPositions[] = {};
@@ -53,8 +53,8 @@ class fow_v_sdkfz_234_1 : Wheeled_APC_F {
 
     class AcreRacks {
         class Rack_1 {
-            displayName = "Vehicle Radio";
-            shortName = "Rack";
+            displayName = "Radio Set";
+            shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver"};
             disabledPositions[] = {};
