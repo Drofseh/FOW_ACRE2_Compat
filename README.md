@@ -6,7 +6,7 @@
 </p>
 <p align="left">
     <a href="https://github.com/Drofseh/FOW_ACRE2_Compat/releases/latest">
-        <img src="https://img.shields.io/badge/Version-0.3.0-blue.svg" alt="FOW/ACRE2 Compat">
+        <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="FOW/ACRE2 Compat">
     </a>
 </p>
 A mod for ARMA3 that adds compatibility between the ACRE2 mod and the FOW mod, particularly for vehicle radios, intercoms, and infantry phones.
@@ -29,8 +29,8 @@ The correct radio operator seat must still be used to access the radio GUI and c
 
 #### Requirements
 * FOW Release V
-* ACRE2 v2.5.1.984 dev build
-* ACE3 v3.12.1
+* ACRE2 v2.6.0.990
+* ACE3 v3.12.2
 
 #### Releases
 Releases can be found [here](https://github.com/Drofseh/FOW_ACRE2_Compat/releases).
