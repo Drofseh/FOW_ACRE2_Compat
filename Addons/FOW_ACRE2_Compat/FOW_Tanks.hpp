@@ -98,7 +98,7 @@ class fow_v_m4a2 : Tank_F {
             displayName = "Radio Set";
             shortName = "Radio";
             componentname = "ACRE_VRC64";
-            allowedPositions[] = {{"turret", {0,1}}};
+            allowedPositions[] = {"commander"};
             disabledPositions[] = {};
             defaultComponents[] = {};
             mountedRadio = "ACRE_PRC77";
