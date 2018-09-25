@@ -1,6 +1,6 @@
 name = "FOW ACRE2 Compatibility";
 author = "Wilhelm Haas (Drofseh)";
-description = "FOW ACRE2 Compatibility - Version 1.0.0";
+description = "FOW ACRE2 Compatibility - Version 1.0.1";
 overview = "Provides compatibility between FOW vehicles and ACRE2 radios.";
 logo = "logo.paa";
 logoOver = "logo.paa";
