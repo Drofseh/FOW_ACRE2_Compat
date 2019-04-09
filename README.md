@@ -29,8 +29,8 @@ The correct radio operator seat must still be used to access the radio GUI and c
 
 #### Requirements
 * FOW Release V
-* ACRE2 v2.6.0.990
-* ACE3 v3.12.2
+* ACRE2 v2.6.2.996
+* ACE3 v3.12.6
 
 #### Releases
 Releases can be found [here](https://github.com/Drofseh/FOW_ACRE2_Compat/releases).

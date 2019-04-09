@@ -1,7 +1,6 @@
-﻿class B_LIB_AssaultPack_Base;
-class Bag_Base;
+﻿class Bag_Base;
 
-    class fow_b_torn_radio : B_LIB_AssaultPack_Base {
+    class fow_b_torn_radio : Bag_Base {
         maximumLoad = 120;
         class TransportItems {
             class _xx_ACRE_PRC77 {

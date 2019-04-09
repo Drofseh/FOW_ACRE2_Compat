@@ -1,4 +1,5 @@
 ﻿class Boat_F;
+
 class fow_lcvp : Boat_F {
     class AcreIntercoms {
         class Intercom_1 {

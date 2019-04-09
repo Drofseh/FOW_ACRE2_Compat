@@ -23,8 +23,7 @@ class fow_v_sdkfz_222 : Wheeled_APC_F {
     acre_infantryPhoneControlActions[] = {};
     acre_infantryPhoneintercom[] = {};
 
-    class AcreIntercoms {
-    };
+    class AcreIntercoms {};
 
     class AcreRacks {
         class Rack_1 {
@@ -32,7 +31,7 @@ class fow_v_sdkfz_222 : Wheeled_APC_F {
             shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"gunner"};
-            disabledPositions[] = {};
+            disabledPositions[] = {{"turnedout", "all"}};
             defaultComponents[] = {};
             mountedRadio = "ACRE_PRC77";
             isRadioRemovable = 0;
@@ -48,8 +47,7 @@ class fow_v_sdkfz_234_1 : Wheeled_APC_F {
     acre_infantryPhoneControlActions[] = {};
     acre_infantryPhoneintercom[] = {};
 
-    class AcreIntercoms {
-    };
+    class AcreIntercoms {};
 
     class AcreRacks {
         class Rack_1 {
@@ -57,6 +55,35 @@ class fow_v_sdkfz_234_1 : Wheeled_APC_F {
             shortName = "Radio";
             componentname = "ACRE_VRC64";
             allowedPositions[] = {"driver"};
+            disabledPositions[] = {{"turnedout", "all"}};
+            defaultComponents[] = {};
+            mountedRadio = "ACRE_PRC77";
+            isRadioRemovable = 0;
+            intercom[] = {"none"};
+        };
+    };
+};
+
+class fow_v_sdkfz_234_1_com : fow_v_sdkfz_234_1 {
+    displayName = "Sd.Kfz. 234/1 (Extra Radio)";
+
+    class AcreRacks {
+        class Rack_1 {
+            displayName = "Radio Set - Anton";
+            shortName = "A-Set";
+            componentname = "ACRE_VRC64";
+            allowedPositions[] = {"driver"};
+            disabledPositions[] = {};
+            defaultComponents[] = {};
+            mountedRadio = "ACRE_PRC77";
+            isRadioRemovable = 0;
+            intercom[] = {"none"};
+        };
+        class Rack_2 {
+            displayName = "Radio Set - Bruno";
+            shortName = "B-Set";
+            componentname = "ACRE_VRC64";
+            allowedPositions[] = {"commander"};
             disabledPositions[] = {};
             defaultComponents[] = {};
             mountedRadio = "ACRE_PRC77";
@@ -66,6 +93,5 @@ class fow_v_sdkfz_234_1 : Wheeled_APC_F {
     };
 };
 /*
-class fow_v_type97_truck_ija : Truck_F {
-};
+class fow_v_type97_truck_ija : Truck_F {};
 */
